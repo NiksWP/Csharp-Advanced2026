@@ -1,0 +1,14 @@
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/bin/Debug/net9.0/ReverseString
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/bin/Debug/net9.0/ReverseString.deps.json
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/bin/Debug/net9.0/ReverseString.runtimeconfig.json
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/bin/Debug/net9.0/ReverseString.dll
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/bin/Debug/net9.0/ReverseString.pdb
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ReverseString.AssemblyInfoInputs.cache
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ReverseString.AssemblyInfo.cs
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ReverseString.csproj.CoreCompileInputs.cache
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ReverseString.dll
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/refint/ReverseString.dll
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ReverseString.pdb
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ReverseString.genruntimeconfig.cache
+/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/ReverseString/obj/Debug/net9.0/ref/ReverseString.dll
