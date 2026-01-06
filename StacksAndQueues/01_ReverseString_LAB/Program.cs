@@ -8,13 +8,13 @@ namespace _01_reverseString
         static void Main()
         {
             string input = Console.ReadLine();
-            Stack<char> stack = new Stack<char>();
+            Stack<char> stackк = new Stack<char>();
             foreach (char letter in input)
             {
-                stack.Push(letter);
+                stackк.Push(letter);
             }
 
-            foreach (char letter in stack)
+            foreach (char letter in stackк)
             {
                 Console.Write(letter);
             }
