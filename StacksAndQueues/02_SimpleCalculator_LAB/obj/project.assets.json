@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/01_ReverseString_LAB/ReverseString.csproj",
-      "projectName": "ReverseString",
-      "projectPath": "/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/01_ReverseString_LAB/ReverseString.csproj",
+      "projectUniqueName": "/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/02_SimpleCalculator_LAB/02_SimpleCalculator_LAB.csproj",
+      "projectName": "02_SimpleCalculator_LAB",
+      "projectPath": "/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/02_SimpleCalculator_LAB/02_SimpleCalculator_LAB.csproj",
       "packagesPath": "/Users/nikolaiivanov/.nuget/packages/",
-      "outputPath": "/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/01_ReverseString_LAB/obj/",
+      "outputPath": "/Users/nikolaiivanov/Csharp-Advanced2026/StacksAndQueues/02_SimpleCalculator_LAB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikolaiivanov/.nuget/NuGet/NuGet.Config"
