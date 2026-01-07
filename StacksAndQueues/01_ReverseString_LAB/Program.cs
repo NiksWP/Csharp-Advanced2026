@@ -9,14 +9,14 @@ namespace _01_reverseString
         {
             string input = Console.ReadLine();
             Stack<char> stackк = new Stack<char>();
-            foreach (char letter in input)
+            foreach (char letterr in input)
             {
-                stackк.Push(letter);
+                stackк.Push(letterr);
             }
 
-            foreach (char letter in stackк)
+            foreach (char letterr in stackк)
             {
-                Console.Write(letter);
+                Console.Write(letterr);
             }
         }
     }
