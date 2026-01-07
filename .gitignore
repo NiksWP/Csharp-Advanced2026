@@ -483,3 +483,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+StacksAndQueues/02_SimpleCalculator_LAB/obj/Debug/net9.0/02_SimpleCalculator_LAB.AssemblyInfoInputs.cache
+StacksAndQueues/02_SimpleCalculator_LAB/obj/Debug/net9.0/02_SimpleCalculator_LAB.AssemblyInfo.cs
