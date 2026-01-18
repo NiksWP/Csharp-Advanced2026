@@ -1,29 +1,34 @@
-﻿var input = Console.ReadLine();
-var stack = new Stack<char>(input.Substring(input.Length / 2));
-var queue = new Queue<char>(input.Substring(0, input.Length - stack.Count));
+﻿string input = Console.ReadLine();
+var stack = new Stack<char>();
 
-var invalid = false;
-
-for (int i = 0; i < queue.Count; i++)
+foreach (var letter in input)
 {
-    var currentQueueElement = queue.Dequeue();
-    var currentStackElement = stack.Pop();
-
-    if (currentQueueElement == '(' && currentStackElement == ')'
-    || currentQueueElement == '{' && currentStackElement == '}'
-    || currentQueueElement == '[' && currentStackElement == ']')
+    if (letter == '[' || letter == '{' || letter == '(')
     {
-        continue;
+        stack.Push(letter);
     }
     else
     {
-        Console.WriteLine("NO");
-        invalid = true;
-        break;
+        if (!stack.Any())
+        {
+            Console.WriteLine("NO");
+            return;
+        }
+        var open = stack.Pop();
+
+        bool matched = (open == '[' && letter == ']' ||
+                      open == '{' && letter == '}' ||
+                      open == '(' && letter == ')');
+
+        if (matched == false)
+        {
+            Console.WriteLine("NO");
+            return;
+        }
     }
 }
 
-if (!invalid)
+if (!stack.Any())
 {
-        Console.WriteLine("YES");
+    Console.WriteLine("YES");
 }
