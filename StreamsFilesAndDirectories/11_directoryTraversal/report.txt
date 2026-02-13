@@ -1,0 +1,8 @@
+.cs
+--DirectoryTraversal.cs - 2.0478515625KB
+.csproj
+--DirectoryTraversal.csproj - 0.1669921875KB
+.sln
+--DirectoryTraversal.sln - 1.080078125KB
+.txt
+--report.txt - 0.1376953125KB
